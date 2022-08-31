@@ -1,0 +1,21 @@
+.usarFlex{
+    display: flex;
+}
+.usarFlex2{
+    @extend .usarFlex;
+}
+.ddcIcon{
+    @extend .usarFlex;
+}
+.iconRedes{
+    @extend .usarFlex;
+}
+.madeBy{
+    @extend .usarFlex;
+}
+form{
+    @extend .usarFlex;
+}
+.rowContIcons{
+    @extend .usarFlex
+}
